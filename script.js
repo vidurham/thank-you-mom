@@ -23,7 +23,7 @@ var picture = function() {
     }
     if (date === "April 19th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/IMG_2302.JPG";
+        img1.src = "./images/pic2.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
         quote1.innerHTML = "'Thank you for taking care of the Sharonville Eagles. That place was awesome when we ran it' -Vincent";
