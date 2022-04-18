@@ -7,12 +7,11 @@ var buttonEl = document.querySelector('#btn');
 
 var today = moment().format("dddd MMMM Do, YYYY");
 
-CurrentDay.append(today)
-
 
 var buildResults = function() {
     openingEl.classList.add("none");
     resultsEl.classList.remove("none");
+    CurrentDay.append(today)
 };
 
 buttonEl.addEventListener('click', function () {
