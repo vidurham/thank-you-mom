@@ -11,8 +11,9 @@ var today = moment().format("dddd MMMM Do, YYYY");
 var buildResults = function() {
     openingEl.classList.add("none");
     resultsEl.classList.remove("none");
-    CurrentDay.append(today)
 };
+
+CurrentDay.append(today)
 
 buttonEl.addEventListener('click', function () {
     buildResults();
