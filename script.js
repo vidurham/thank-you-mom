@@ -13,7 +13,7 @@ var makeDay = function() {
 };
 
 var picture = function() {
-    if (date === "April 18th, 2022") {
+    if (date === "May 2nd, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic1.JPG";
         familyPicEl.append(img1);
@@ -21,15 +21,15 @@ var picture = function() {
         quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
         thanksEl.append(quote1);
     }
-    if (date === "April 19th, 2022") {
+    if (date === "April 26th, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic2.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for taking care of the Sharonville Eagles. That place was awesome when we ran it' -Vincent";
+        quote1.innerHTML = "'Thanks for always cooking bomb dinners.' -Vincent";
         thanksEl.append(quote1);
     }
-    if (date === "April 20th, 2022") {
+    if (date === "April 27th, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic3.jpg";
         familyPicEl.append(img1);
@@ -37,7 +37,7 @@ var picture = function() {
         quote1.innerHTML = "'Thank you for taking care of the Sharonville Eagles. That place was awesome when we ran it' -Vincent";
         thanksEl.append(quote1);
     }
-    if (date === "April 21st, 2022") {
+    if (date === "May 1st, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic4.jpeg";
         familyPicEl.append(img1);
@@ -45,7 +45,7 @@ var picture = function() {
         quote1.innerHTML = "'Thanks for all the rides to and from Fenwick.' -Vincent";
         thanksEl.append(quote1);
     }
-    if (date === "April 22nd, 2022") {
+    if (date === "April 30th, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic5.jpg";
         familyPicEl.append(img1);
@@ -53,7 +53,7 @@ var picture = function() {
         quote1.innerHTML = "'Thanks for helping me get through skewl' -Vincent";
         thanksEl.append(quote1);
     }
-    if (date === "April 23rd, 2022") {
+    if (date === "April 29th, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic6.jpg";
         familyPicEl.append(img1);
@@ -61,7 +61,7 @@ var picture = function() {
         quote1.innerHTML = "'Thanks for all the orange chicken you've made me' -Vincent";
         thanksEl.append(quote1);
     }
-    if (date === "April 24th, 2022") {
+    if (date === "April 28th, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic7.jpg";
         familyPicEl.append(img1);
@@ -69,7 +69,7 @@ var picture = function() {
         quote1.innerHTML = "'Thanks for Bailey.... I miss Bailey' -Vincent";
         thanksEl.append(quote1);
     }
-    if (date === "April 25th, 2022") {
+    if (date === "May 3rd, 2022") {
         var img1 = document.createElement("img");
         img1.src = "./images/pic8.jpg";
         familyPicEl.append(img1);
