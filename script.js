@@ -47,7 +47,7 @@ var picture = function() {
     }
     if (date === "May 5th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic187.jpg";
+        img1.src = "./images/pic187.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
         quote1.innerHTML = "'Thank you for waking up at 3 in the morning to check my blood sugars (and Joe's!)' -Jess";
