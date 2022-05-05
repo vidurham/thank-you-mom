@@ -47,10 +47,10 @@ var picture = function() {
     }
     if (date === "May 5th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic7.jpg";
+        img1.src = "./images/pic187.jpg";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thanks for Bailey.... I miss Bailey' -Vincent";
+        quote1.innerHTML = "'Thank you for waking up at 3 in the morning to check my blood sugars (and Joe's!)' -Jess";
         thanksEl.append(quote1);
     }
     if (date === "May 6th, 2022") {
