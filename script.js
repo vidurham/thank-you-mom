@@ -71,18 +71,21 @@ var picture = function() {
     }
     if (date === "May 8th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic269.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thanks for our 5 little angels.' -Dad";
         thanksEl.append(quote1);
+        var quote2 = document.createElement("p");
+        quote2.innerHTML = "Happy Mother's Day, we love you lots";
+        thanksEl.append(quote2);
     }
     if (date === "May 9th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic250.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for waking up at 3 in the morning to check my blood sugars (and Joe's!)' -Jess";
         thanksEl.append(quote1);
     }
     if (date === "May 10th, 2022") {
