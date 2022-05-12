@@ -162,58 +162,58 @@ var picture = function() {
     }
     if (date === "May 19th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic75.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for allowing us and encouraging us to get out and see the world.' -Kelly";
         thanksEl.append(quote1);
     }
     if (date === "May 20th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic95.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for mini muffins every Friday. Those slap.' -Nicholas";
         thanksEl.append(quote1);
     }
     if (date === "May 21st, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic274.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for coming down to my graduation, it means the world to me, excited to see you, Dad, and Joe!' -Vincent";
         thanksEl.append(quote1);
     }
     if (date === "May 22nd, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic216.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for reminding Nick to not drink too much water before he goes to sleep' -Joseph";
         thanksEl.append(quote1);
     }
     if (date === "May 23rd, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic154.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for all the McDonald's trips back in the day. Nothing like some cat-food(parfait) and cinnamon rolls to start the day' -Vincent";
         thanksEl.append(quote1);
     }
     if (date === "May 24th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic102.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thanks for having the fashion sense to help those of us who don't.' -Dad";
         thanksEl.append(quote1);
     }
     if (date === "May 25th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic163.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for the cheesy potato recipe!' -Jess";
         thanksEl.append(quote1);
     }
     if (date === "May 26th, 2022") {
