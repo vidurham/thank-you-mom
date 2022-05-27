@@ -226,26 +226,26 @@ var picture = function() {
     }
     if (date === "May 27th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic188.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for always allowing us to come home - even when home is a little tiny one bedroom apartment stuffed with way too many people.' -Kelly";
         thanksEl.append(quote1);
     }
     if (date === "May 28th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic193.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for letting me go to Teen Night at the Sharonville rec center' -Jess";
         thanksEl.append(quote1);
     }
     if (date === "May 29th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic235.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thanks for the best summers of bowling and golfing!' -Nicholas";
         thanksEl.append(quote1);
     }
     if (date === "May 30th, 2022") {
