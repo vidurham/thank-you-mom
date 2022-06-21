@@ -426,34 +426,34 @@ var picture = function() {
     }
     if (date === "June 21st, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic146.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for loving all of us, even on our worst days' -Joseph";
         thanksEl.append(quote1);
     }
     if (date === "June 22nd, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic187.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for sharing your closet with me when I need something at home' -Kelly";
         thanksEl.append(quote1);
     }
     if (date === "June 23rd, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic215.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for cooking retarded spaghetti' -Jess";
         thanksEl.append(quote1);
     }
     if (date === "June 24th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic227.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thanks for all the great memories and the ones to come' -Dad";
         thanksEl.append(quote1);
     }
     if (date === "June 25th, 2022") {
