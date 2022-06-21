@@ -445,7 +445,7 @@ var picture = function() {
         img1.src = "./images/pic215.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for cooking retarded spaghetti' -Jess";
+        quote1.innerHTML = "'Thank you for cooking so many delicious meals for us' -Jess";
         thanksEl.append(quote1);
     }
     if (date === "June 24th, 2022") {
