@@ -474,18 +474,18 @@ var picture = function() {
     }
     if (date === "June 27th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic129.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for sending me to Catholic grade school and high school' -Jess";
         thanksEl.append(quote1);
     }
     if (date === "June 28th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic213.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thanks for reminding dad of people's names everytime he forgets' -Nicholas";
         thanksEl.append(quote1);
     }
     if (date === "June 29th, 2022") {
