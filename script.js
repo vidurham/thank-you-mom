@@ -490,18 +490,18 @@ var picture = function() {
     }
     if (date === "June 29th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic230.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thank you for all the toys and games you gave us growing up! My many barbies, Polly pockets, dress ups and more - you always made sure we were happy.' -Kelly";
         thanksEl.append(quote1);
     }
     if (date === "June 30th, 2022") {
         var img1 = document.createElement("img");
-        img1.src = "./images/pic1.JPG";
+        img1.src = "./images/pic105.JPG";
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = "'Thank you for always throwing the best parties. I love coming home and getting to see all of our friends and family' -Vincent";
+        quote1.innerHTML = "'Thanks for taking care of the house, including building this one.' -Dad";
         thanksEl.append(quote1);
     }
     if (date === "July 1st, 2022") {
