@@ -24,16 +24,22 @@ var makeDay = function() {
     currentDay.append(today);
 };
 
-var picture = function() {
+var now = new Date()
+var current = new Date('August 10, 2022 21:00:00')
+
+var see = Math.round((now - current) / 86400000)
+
+var setPicture = function() {
     if (date) {
         var img1 = document.createElement("img");
-        img1.src = pics[Math.round((Math.random()*276))];
+        img1.src = pics[Math.round((Math.random()*275))];
         familyPicEl.append(img1);
         var quote1 = document.createElement("p");
-        quote1.innerHTML = quotes[Math.round((Math.random()*176))]
+        quote1.innerHTML = quotes[Math.round((Math.random()*175))]
         thanksEl.append(quote1);
     }
 }
+
 var buildResults = function() {
     openingEl.classList.add("none");
     resultsEl.classList.remove("none");
@@ -41,7 +47,8 @@ var buildResults = function() {
 
 buttonEl.addEventListener('click', function () {
     buildResults();
-    picture();
+    setPicture();
+    console.log(see)
 });
 
 makeDay();
